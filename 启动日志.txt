@@ -1,0 +1,24 @@
+=== 程序启动日志 ===
+时间：1766237982.4489822
+Python版本：3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]
+系统：win32
+架构：64位
+EXE路径：开发环境
+
+[LOG] 1. 日志系统初始化完成，开始加载基础依赖
+[LOG] 2. 配置Qt插件路径
+[LOG]    开发环境Qt插件路径：D:\Wedding-Lottery-MS-main\choujiang_Project\platforms
+[LOG] 3. 开始导入PySide6模块
+[LOG]    PySide6导入成功
+[LOG] 4. 开始导入自定义模块
+[LOG]    utils.resource_path导入成功
+[LOG]    core模块（抽奖引擎/号码验证）导入成功
+[LOG]    ui.main_window导入成功
+[LOG] 5. 初始化QApplication
+[LOG]    QApplication初始化成功
+[LOG] 6. 加载资源文件（图标/QSS）
+[LOG]    图标路径：D:\Wedding-Lottery-MS-main\choujiang_Project\resources/logo.ico，是否存在：True
+[LOG]    QSS路径：D:\Wedding-Lottery-MS-main\choujiang_Project\resources/styles/macos.qss，是否存在：True
+[LOG]    QSS样式表加载成功
+[LOG] 7. 初始化主窗口，准备启动程序
+[LOG] 8. 主窗口显示成功，程序启动完成
